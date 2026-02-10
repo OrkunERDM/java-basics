@@ -1,3 +1,5 @@
 /bin/
 /.settings/
 *.class
+*.log
+.DS_Store
